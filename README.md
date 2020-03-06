@@ -27,9 +27,11 @@ Based on these requests I had to design and visualise a picture in my head how t
 ____________________________________________________________________________________________________________________________________
 
 SPRINT 1:
+
 It was necessary that I had set up everything at the start so i dont get confused and mixed around tasks such as Version Control. During the first sprint of the project I designed all the GUI for all the pages such as the LOGIN FORM, REGISTRATION, MAIN MENU, INSTRUCTIONS PAGE, HIGHSCORES. I also started to build the base code of my Tic Tac Toe Game for the game. Also, i created all the tables such as the Users and Highscores Table to be stored in the database. Managed to some of the pages together in sprint 1 but had difficulties in connecting to the database.
 
 SPRINT RETROSPECTIVE 1:
+
 I was happy that I managed to make all the foundation that was necessary for the application to be up and people were able to have a glance of how the product would look at the end of project. On the other hand i still had a lot of work to do such as all the functionalities to be able to work and also have the game finished by the end of the week and also write Testcases for those codes.
 
 ____________________________________________________________________________________________________________________________________
